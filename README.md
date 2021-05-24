@@ -1,0 +1,2 @@
+# Blooger Responsive Site
+ 
